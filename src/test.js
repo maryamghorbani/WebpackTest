@@ -1,1 +1,1 @@
- const log = message => console.log(message)
+export const log = message => console.log(message)
