@@ -2,8 +2,7 @@ const path = require('path')
 
 module.exports = {
     entry : {
-        admin : './src/admin.js',
-        home : './src/home.js'
+        bundle : './src/script.js'
     },
     output : {
         filename : '[name].js',

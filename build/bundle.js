@@ -81,22 +81,10 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./src/admin.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/script.js");
 /******/ })
 /************************************************************************/
 /******/ ({
-
-/***/ "./src/admin.js":
-/*!**********************!*\
-  !*** ./src/admin.js ***!
-  \**********************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _logger__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./logger */ \"./src/logger.js\");\n\r\n\r\nObject(_logger__WEBPACK_IMPORTED_MODULE_0__[\"log\"])('admin panel')\n\n//# sourceURL=webpack:///./src/admin.js?");
-
-/***/ }),
 
 /***/ "./src/logger.js":
 /*!***********************!*\
@@ -107,6 +95,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _log
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"log\", function() { return log; });\nconst log = message => console.log(message)\n\n//# sourceURL=webpack:///./src/logger.js?");
+
+/***/ }),
+
+/***/ "./src/script.js":
+/*!***********************!*\
+  !*** ./src/script.js ***!
+  \***********************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _logger__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./logger */ \"./src/logger.js\");\n\r\n\r\nObject(_logger__WEBPACK_IMPORTED_MODULE_0__[\"log\"])('hello home')\n\n//# sourceURL=webpack:///./src/script.js?");
 
 /***/ })
 
