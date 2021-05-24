@@ -1,5 +1,5 @@
 import './styles/image-style.css';
-import firstImage from './images/IMG_20190914_161153_1.jpg';
+import firstImage from './images/1.png';
 
 
 class ImageComponent {

@@ -130,19 +130,19 @@ eval("\n\nvar isOldIE = function isOldIE() {\n  var memo;\n  return function mem
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_image_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/image-style.css */ \"./src/component/styles/image-style.css\");\n/* harmony import */ var _images_IMG_20190914_161153_1_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/IMG_20190914_161153_1.jpg */ \"./src/component/images/IMG_20190914_161153_1.jpg\");\n\n\n\n\nclass ImageComponent {\n\n    crateImageTag() {\n        const image = document.createElement('img');\n        image.alt = 'My Image';\n        image.classList.add('image');\n        image.src = _images_IMG_20190914_161153_1_jpg__WEBPACK_IMPORTED_MODULE_1__[\"default\"];\n\n        return image;\n    }\n    render(){\n        const element = document.createElement('div');\n        element.classList.add('img-box')\n\n        element.appendChild(this.crateImageTag());\n\n        return element;\n    }\n}\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (new ImageComponent());\n\n//# sourceURL=webpack:///./src/component/ImageComponent.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_image_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/image-style.css */ \"./src/component/styles/image-style.css\");\n/* harmony import */ var _images_1_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/1.png */ \"./src/component/images/1.png\");\n\n\n\n\nclass ImageComponent {\n\n    crateImageTag() {\n        const image = document.createElement('img');\n        image.alt = 'My Image';\n        image.classList.add('image');\n        image.src = _images_1_png__WEBPACK_IMPORTED_MODULE_1__[\"default\"];\n\n        return image;\n    }\n    render(){\n        const element = document.createElement('div');\n        element.classList.add('img-box')\n\n        element.appendChild(this.crateImageTag());\n\n        return element;\n    }\n}\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (new ImageComponent());\n\n//# sourceURL=webpack:///./src/component/ImageComponent.js?");
 
 /***/ }),
 
-/***/ "./src/component/images/IMG_20190914_161153_1.jpg":
-/*!********************************************************!*\
-  !*** ./src/component/images/IMG_20190914_161153_1.jpg ***!
-  \********************************************************/
+/***/ "./src/component/images/1.png":
+/*!************************************!*\
+  !*** ./src/component/images/1.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/images/IMG_20190914_161153_1.jpg\");\n\n//# sourceURL=webpack:///./src/component/images/IMG_20190914_161153_1.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/images/1.png\");\n\n//# sourceURL=webpack:///./src/component/images/1.png?");
 
 /***/ }),
 
