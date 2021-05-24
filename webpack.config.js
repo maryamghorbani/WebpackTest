@@ -6,13 +6,18 @@ module.exports = {
     },
     output : {
         filename : '[name].js',
-        path : path.resolve(__dirname,'build')
+        path : path.resolve(__dirname,'build'),
+        publicPath: 'build/'
     },
     module: {
         rules: [
             {
                 test: /\.css$/,
                 use: ['style-loader' , 'css-loader']
+            },
+            {
+                test: /\.(png|jpe?g|gif)/,
+                use: ['file-loader']
             }
         ]
     }
