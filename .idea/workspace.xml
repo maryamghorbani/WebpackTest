@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0525b2c3-695a-493e-89c0-838fa028dcba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/styles/image-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/ImageComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ImageComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/images/IMG_20190914_161153_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/images/IMG_20190914_161153_1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621775273295</updated>
       <workItem from="1621775277361" duration="5343000" />
-      <workItem from="1621840535427" duration="2955000" />
+      <workItem from="1621840535427" duration="3488000" />
     </task>
     <servers />
   </component>

@@ -17,7 +17,15 @@ module.exports = {
             },
             {
                 test: /\.(png|jpe?g|gif)/,
-                use: ['file-loader']
+                use: [
+                    {
+                        loader: 'file-loader',
+                        options: {
+                            publicPath: 'build/images',
+                            outputPath: 'images'
+                        }
+                    }
+                ]
             }
         ]
     }
