@@ -1,4 +1,4 @@
-import { log } from './logger';
-import './style.css'
+import ImageComponent from './component/ImageComponent'
 
-log('hello home')
+const app = document.querySelector('#app');
+app.appendChild(ImageComponent.render())
