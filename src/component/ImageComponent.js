@@ -15,7 +15,7 @@ class ImageComponent {
 
     createTextTag() {
         const text = document.createElement('h2');
-        text.innerHTML = 'سلام راکت';
+        text.innerHTML = 'سلام مریم';
 
         return text;
     }
