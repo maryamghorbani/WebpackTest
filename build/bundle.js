@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Vazir-Regular.eot */ \"./src/component/fonts/Vazir-Regular.eot\");\n/* harmony import */ var _Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _Vazir_Regular_woff2__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Vazir-Regular.woff2 */ \"./src/component/fonts/Vazir-Regular.woff2\");\n/* harmony import */ var _Vazir_Regular_woff2__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Regular_woff2__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _Vazir_Regular_woff__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Vazir-Regular.woff */ \"./src/component/fonts/Vazir-Regular.woff\");\n/* harmony import */ var _Vazir_Regular_woff__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Regular_woff__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _Vazir_Regular_ttf__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Vazir-Regular.ttf */ \"./src/component/fonts/Vazir-Regular.ttf\");\n/* harmony import */ var _Vazir_Regular_ttf__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Regular_ttf__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./Vazir-Bold.eot */ \"./src/component/fonts/Vazir-Bold.eot\");\n/* harmony import */ var _Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _Vazir_Bold_woff2__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./Vazir-Bold.woff2 */ \"./src/component/fonts/Vazir-Bold.woff2\");\n/* harmony import */ var _Vazir_Bold_woff2__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Bold_woff2__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var _Vazir_Bold_woff__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./Vazir-Bold.woff */ \"./src/component/fonts/Vazir-Bold.woff\");\n/* harmony import */ var _Vazir_Bold_woff__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Bold_woff__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var _Vazir_Bold_ttf__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./Vazir-Bold.ttf */ \"./src/component/fonts/Vazir-Bold.ttf\");\n/* harmony import */ var _Vazir_Bold_ttf__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Bold_ttf__WEBPACK_IMPORTED_MODULE_9__);\n/* harmony import */ var _Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./Vazir-Thin.eot */ \"./src/component/fonts/Vazir-Thin.eot\");\n/* harmony import */ var _Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10__);\n/* harmony import */ var _Vazir_Thin_woff2__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./Vazir-Thin.woff2 */ \"./src/component/fonts/Vazir-Thin.woff2\");\n/* harmony import */ var _Vazir_Thin_woff2__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Thin_woff2__WEBPACK_IMPORTED_MODULE_11__);\n/* harmony import */ var _Vazir_Thin_woff__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./Vazir-Thin.woff */ \"./src/component/fonts/Vazir-Thin.woff\");\n/* harmony import */ var _Vazir_Thin_woff__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Thin_woff__WEBPACK_IMPORTED_MODULE_12__);\n/* harmony import */ var _Vazir_Thin_ttf__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./Vazir-Thin.ttf */ \"./src/component/fonts/Vazir-Thin.ttf\");\n/* harmony import */ var _Vazir_Thin_ttf__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Thin_ttf__WEBPACK_IMPORTED_MODULE_13__);\n/* harmony import */ var _Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./Vazir-Light.eot */ \"./src/component/fonts/Vazir-Light.eot\");\n/* harmony import */ var _Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14__);\n/* harmony import */ var _Vazir_Light_woff2__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./Vazir-Light.woff2 */ \"./src/component/fonts/Vazir-Light.woff2\");\n/* harmony import */ var _Vazir_Light_woff2__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Light_woff2__WEBPACK_IMPORTED_MODULE_15__);\n/* harmony import */ var _Vazir_Light_woff__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./Vazir-Light.woff */ \"./src/component/fonts/Vazir-Light.woff\");\n/* harmony import */ var _Vazir_Light_woff__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Light_woff__WEBPACK_IMPORTED_MODULE_16__);\n/* harmony import */ var _Vazir_Light_ttf__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./Vazir-Light.ttf */ \"./src/component/fonts/Vazir-Light.ttf\");\n/* harmony import */ var _Vazir_Light_ttf__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Light_ttf__WEBPACK_IMPORTED_MODULE_17__);\n/* harmony import */ var _Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./Vazir-Medium.eot */ \"./src/component/fonts/Vazir-Medium.eot\");\n/* harmony import */ var _Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18__);\n/* harmony import */ var _Vazir_Medium_woff2__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./Vazir-Medium.woff2 */ \"./src/component/fonts/Vazir-Medium.woff2\");\n/* harmony import */ var _Vazir_Medium_woff2__WEBPACK_IMPORTED_MODULE_19___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Medium_woff2__WEBPACK_IMPORTED_MODULE_19__);\n/* harmony import */ var _Vazir_Medium_woff__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./Vazir-Medium.woff */ \"./src/component/fonts/Vazir-Medium.woff\");\n/* harmony import */ var _Vazir_Medium_woff__WEBPACK_IMPORTED_MODULE_20___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Medium_woff__WEBPACK_IMPORTED_MODULE_20__);\n/* harmony import */ var _Vazir_Medium_ttf__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./Vazir-Medium.ttf */ \"./src/component/fonts/Vazir-Medium.ttf\");\n/* harmony import */ var _Vazir_Medium_ttf__WEBPACK_IMPORTED_MODULE_21___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Medium_ttf__WEBPACK_IMPORTED_MODULE_21__);\n/* harmony import */ var _Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./Vazir-Black.eot */ \"./src/component/fonts/Vazir-Black.eot\");\n/* harmony import */ var _Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22__);\n/* harmony import */ var _Vazir_Black_woff2__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./Vazir-Black.woff2 */ \"./src/component/fonts/Vazir-Black.woff2\");\n/* harmony import */ var _Vazir_Black_woff2__WEBPACK_IMPORTED_MODULE_23___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Black_woff2__WEBPACK_IMPORTED_MODULE_23__);\n/* harmony import */ var _Vazir_Black_woff__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./Vazir-Black.woff */ \"./src/component/fonts/Vazir-Black.woff\");\n/* harmony import */ var _Vazir_Black_woff__WEBPACK_IMPORTED_MODULE_24___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Black_woff__WEBPACK_IMPORTED_MODULE_24__);\n/* harmony import */ var _Vazir_Black_ttf__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./Vazir-Black.ttf */ \"./src/component/fonts/Vazir-Black.ttf\");\n/* harmony import */ var _Vazir_Black_ttf__WEBPACK_IMPORTED_MODULE_25___default = /*#__PURE__*/__webpack_require__.n(_Vazir_Black_ttf__WEBPACK_IMPORTED_MODULE_25__);\n// Imports\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2___default.a, { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_woff2__WEBPACK_IMPORTED_MODULE_3___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_woff__WEBPACK_IMPORTED_MODULE_4___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_4___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_ttf__WEBPACK_IMPORTED_MODULE_5___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_5___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_6___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6___default.a, { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_7___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_woff2__WEBPACK_IMPORTED_MODULE_7___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_8___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_woff__WEBPACK_IMPORTED_MODULE_8___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_9___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_ttf__WEBPACK_IMPORTED_MODULE_9___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_10___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_11___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10___default.a, { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_12___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_woff2__WEBPACK_IMPORTED_MODULE_11___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_13___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_woff__WEBPACK_IMPORTED_MODULE_12___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_14___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_ttf__WEBPACK_IMPORTED_MODULE_13___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_15___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_16___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14___default.a, { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_17___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_woff2__WEBPACK_IMPORTED_MODULE_15___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_18___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_woff__WEBPACK_IMPORTED_MODULE_16___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_19___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_ttf__WEBPACK_IMPORTED_MODULE_17___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_20___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_21___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18___default.a, { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_22___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_woff2__WEBPACK_IMPORTED_MODULE_19___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_23___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_woff__WEBPACK_IMPORTED_MODULE_20___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_24___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_ttf__WEBPACK_IMPORTED_MODULE_21___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_25___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_26___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22___default.a, { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_27___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_woff2__WEBPACK_IMPORTED_MODULE_23___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_28___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_woff__WEBPACK_IMPORTED_MODULE_24___default.a);\nvar ___CSS_LOADER_URL_REPLACEMENT_29___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_ttf__WEBPACK_IMPORTED_MODULE_25___default.a);\n// Module\n___CSS_LOADER_EXPORT___.push([module.i, \"@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_3___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_4___ + \") format('truetype');\\n  font-weight: normal;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_5___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_6___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_7___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_8___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_9___ + \") format('truetype');\\n  font-weight: bold;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_10___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_11___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_12___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_13___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_14___ + \") format('truetype');\\n  font-weight: 100;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_15___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_16___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_17___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_18___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_19___ + \") format('truetype');\\n  font-weight: 300;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_20___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_21___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_22___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_23___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_24___ + \") format('truetype');\\n  font-weight: 500;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_25___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_26___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_27___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_28___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_29___ + \") format('truetype');\\n  font-weight: 900;\\n  font-display:swap;\\n}\", \"\"]);\n// Exports\n/* harmony default export */ __webpack_exports__[\"default\"] = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack:///./src/component/fonts/font-face.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Vazir-Regular.eot */ \"./src/component/fonts/Vazir-Regular.eot\");\n/* harmony import */ var _Vazir_Regular_woff2__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Vazir-Regular.woff2 */ \"./src/component/fonts/Vazir-Regular.woff2\");\n/* harmony import */ var _Vazir_Regular_woff__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Vazir-Regular.woff */ \"./src/component/fonts/Vazir-Regular.woff\");\n/* harmony import */ var _Vazir_Regular_ttf__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Vazir-Regular.ttf */ \"./src/component/fonts/Vazir-Regular.ttf\");\n/* harmony import */ var _Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./Vazir-Bold.eot */ \"./src/component/fonts/Vazir-Bold.eot\");\n/* harmony import */ var _Vazir_Bold_woff2__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./Vazir-Bold.woff2 */ \"./src/component/fonts/Vazir-Bold.woff2\");\n/* harmony import */ var _Vazir_Bold_woff__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./Vazir-Bold.woff */ \"./src/component/fonts/Vazir-Bold.woff\");\n/* harmony import */ var _Vazir_Bold_ttf__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./Vazir-Bold.ttf */ \"./src/component/fonts/Vazir-Bold.ttf\");\n/* harmony import */ var _Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./Vazir-Thin.eot */ \"./src/component/fonts/Vazir-Thin.eot\");\n/* harmony import */ var _Vazir_Thin_woff2__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./Vazir-Thin.woff2 */ \"./src/component/fonts/Vazir-Thin.woff2\");\n/* harmony import */ var _Vazir_Thin_woff__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./Vazir-Thin.woff */ \"./src/component/fonts/Vazir-Thin.woff\");\n/* harmony import */ var _Vazir_Thin_ttf__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./Vazir-Thin.ttf */ \"./src/component/fonts/Vazir-Thin.ttf\");\n/* harmony import */ var _Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./Vazir-Light.eot */ \"./src/component/fonts/Vazir-Light.eot\");\n/* harmony import */ var _Vazir_Light_woff2__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./Vazir-Light.woff2 */ \"./src/component/fonts/Vazir-Light.woff2\");\n/* harmony import */ var _Vazir_Light_woff__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./Vazir-Light.woff */ \"./src/component/fonts/Vazir-Light.woff\");\n/* harmony import */ var _Vazir_Light_ttf__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./Vazir-Light.ttf */ \"./src/component/fonts/Vazir-Light.ttf\");\n/* harmony import */ var _Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./Vazir-Medium.eot */ \"./src/component/fonts/Vazir-Medium.eot\");\n/* harmony import */ var _Vazir_Medium_woff2__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./Vazir-Medium.woff2 */ \"./src/component/fonts/Vazir-Medium.woff2\");\n/* harmony import */ var _Vazir_Medium_woff__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./Vazir-Medium.woff */ \"./src/component/fonts/Vazir-Medium.woff\");\n/* harmony import */ var _Vazir_Medium_ttf__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./Vazir-Medium.ttf */ \"./src/component/fonts/Vazir-Medium.ttf\");\n/* harmony import */ var _Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./Vazir-Black.eot */ \"./src/component/fonts/Vazir-Black.eot\");\n/* harmony import */ var _Vazir_Black_woff2__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./Vazir-Black.woff2 */ \"./src/component/fonts/Vazir-Black.woff2\");\n/* harmony import */ var _Vazir_Black_woff__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./Vazir-Black.woff */ \"./src/component/fonts/Vazir-Black.woff\");\n/* harmony import */ var _Vazir_Black_ttf__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./Vazir-Black.ttf */ \"./src/component/fonts/Vazir-Black.ttf\");\n// Imports\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_eot__WEBPACK_IMPORTED_MODULE_2__[\"default\"], { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_woff2__WEBPACK_IMPORTED_MODULE_3__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_woff__WEBPACK_IMPORTED_MODULE_4__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_4___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Regular_ttf__WEBPACK_IMPORTED_MODULE_5__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_5___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_6___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_eot__WEBPACK_IMPORTED_MODULE_6__[\"default\"], { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_7___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_woff2__WEBPACK_IMPORTED_MODULE_7__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_8___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_woff__WEBPACK_IMPORTED_MODULE_8__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_9___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Bold_ttf__WEBPACK_IMPORTED_MODULE_9__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_10___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_11___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_eot__WEBPACK_IMPORTED_MODULE_10__[\"default\"], { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_12___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_woff2__WEBPACK_IMPORTED_MODULE_11__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_13___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_woff__WEBPACK_IMPORTED_MODULE_12__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_14___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Thin_ttf__WEBPACK_IMPORTED_MODULE_13__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_15___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_16___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_eot__WEBPACK_IMPORTED_MODULE_14__[\"default\"], { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_17___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_woff2__WEBPACK_IMPORTED_MODULE_15__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_18___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_woff__WEBPACK_IMPORTED_MODULE_16__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_19___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Light_ttf__WEBPACK_IMPORTED_MODULE_17__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_20___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_21___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_eot__WEBPACK_IMPORTED_MODULE_18__[\"default\"], { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_22___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_woff2__WEBPACK_IMPORTED_MODULE_19__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_23___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_woff__WEBPACK_IMPORTED_MODULE_20__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_24___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Medium_ttf__WEBPACK_IMPORTED_MODULE_21__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_25___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_26___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_eot__WEBPACK_IMPORTED_MODULE_22__[\"default\"], { hash: \"?#iefix\" });\nvar ___CSS_LOADER_URL_REPLACEMENT_27___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_woff2__WEBPACK_IMPORTED_MODULE_23__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_28___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_woff__WEBPACK_IMPORTED_MODULE_24__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_29___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_Vazir_Black_ttf__WEBPACK_IMPORTED_MODULE_25__[\"default\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.i, \"@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_3___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_4___ + \") format('truetype');\\n  font-weight: normal;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_5___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_6___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_7___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_8___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_9___ + \") format('truetype');\\n  font-weight: bold;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_10___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_11___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_12___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_13___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_14___ + \") format('truetype');\\n  font-weight: 100;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_15___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_16___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_17___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_18___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_19___ + \") format('truetype');\\n  font-weight: 300;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_20___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_21___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_22___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_23___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_24___ + \") format('truetype');\\n  font-weight: 500;\\n  font-display:swap;\\n}\\n\\n@font-face {\\n  font-family: Vazir;\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_25___ + \");\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_26___ + \") format('embedded-opentype'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_27___ + \") format('woff2'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_28___ + \") format('woff'),\\n       url(\" + ___CSS_LOADER_URL_REPLACEMENT_29___ + \") format('truetype');\\n  font-weight: 900;\\n  font-display:swap;\\n}\", \"\"]);\n// Exports\n/* harmony default export */ __webpack_exports__[\"default\"] = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack:///./src/component/fonts/font-face.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -162,10 +162,11 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
 /*!*********************************************!*\
   !*** ./src/component/fonts/Vazir-Black.eot ***!
   \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.eot?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Black.eot\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.eot?");
 
 /***/ }),
 
@@ -173,10 +174,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:0)\\n
 /*!*********************************************!*\
   !*** ./src/component/fonts/Vazir-Black.ttf ***!
   \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.ttf?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Black.ttf\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.ttf?");
 
 /***/ }),
 
@@ -184,10 +186,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0
 /*!**********************************************!*\
   !*** ./src/component/fonts/Vazir-Black.woff ***!
   \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.woff?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Black.woff\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.woff?");
 
 /***/ }),
 
@@ -195,10 +198,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!***********************************************!*\
   !*** ./src/component/fonts/Vazir-Black.woff2 ***!
   \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.woff2?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Black.woff2\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Black.woff2?");
 
 /***/ }),
 
@@ -206,10 +210,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!********************************************!*\
   !*** ./src/component/fonts/Vazir-Bold.eot ***!
   \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.eot?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Bold.eot\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.eot?");
 
 /***/ }),
 
@@ -217,10 +222,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:0)\\n
 /*!********************************************!*\
   !*** ./src/component/fonts/Vazir-Bold.ttf ***!
   \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.ttf?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Bold.ttf\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.ttf?");
 
 /***/ }),
 
@@ -228,10 +234,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0
 /*!*********************************************!*\
   !*** ./src/component/fonts/Vazir-Bold.woff ***!
   \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.woff?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Bold.woff\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.woff?");
 
 /***/ }),
 
@@ -239,10 +246,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!**********************************************!*\
   !*** ./src/component/fonts/Vazir-Bold.woff2 ***!
   \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.woff2?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Bold.woff2\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Bold.woff2?");
 
 /***/ }),
 
@@ -250,10 +258,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!*********************************************!*\
   !*** ./src/component/fonts/Vazir-Light.eot ***!
   \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:1)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.eot?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Light.eot\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.eot?");
 
 /***/ }),
 
@@ -261,10 +270,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:1)\\n
 /*!*********************************************!*\
   !*** ./src/component/fonts/Vazir-Light.ttf ***!
   \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.ttf?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Light.ttf\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.ttf?");
 
 /***/ }),
 
@@ -272,10 +282,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0
 /*!**********************************************!*\
   !*** ./src/component/fonts/Vazir-Light.woff ***!
   \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.woff?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Light.woff\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.woff?");
 
 /***/ }),
 
@@ -283,10 +294,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!***********************************************!*\
   !*** ./src/component/fonts/Vazir-Light.woff2 ***!
   \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.woff2?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Light.woff2\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Light.woff2?");
 
 /***/ }),
 
@@ -294,10 +306,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!**********************************************!*\
   !*** ./src/component/fonts/Vazir-Medium.eot ***!
   \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u001c' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.eot?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Medium.eot\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.eot?");
 
 /***/ }),
 
@@ -305,10 +318,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u001c' (1:0
 /*!**********************************************!*\
   !*** ./src/component/fonts/Vazir-Medium.ttf ***!
   \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.ttf?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Medium.ttf\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.ttf?");
 
 /***/ }),
 
@@ -316,10 +330,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0
 /*!***********************************************!*\
   !*** ./src/component/fonts/Vazir-Medium.woff ***!
   \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.woff?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Medium.woff\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.woff?");
 
 /***/ }),
 
@@ -327,10 +342,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!************************************************!*\
   !*** ./src/component/fonts/Vazir-Medium.woff2 ***!
   \************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.woff2?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Medium.woff2\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Medium.woff2?");
 
 /***/ }),
 
@@ -338,10 +354,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!***********************************************!*\
   !*** ./src/component/fonts/Vazir-Regular.eot ***!
   \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u000e' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.eot?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Regular.eot\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.eot?");
 
 /***/ }),
 
@@ -349,10 +366,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u000e' (1:0
 /*!***********************************************!*\
   !*** ./src/component/fonts/Vazir-Regular.ttf ***!
   \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.ttf?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Regular.ttf\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.ttf?");
 
 /***/ }),
 
@@ -360,10 +378,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0
 /*!************************************************!*\
   !*** ./src/component/fonts/Vazir-Regular.woff ***!
   \************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.woff?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Regular.woff\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.woff?");
 
 /***/ }),
 
@@ -371,10 +390,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!*************************************************!*\
   !*** ./src/component/fonts/Vazir-Regular.woff2 ***!
   \*************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.woff2?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Regular.woff2\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Regular.woff2?");
 
 /***/ }),
 
@@ -382,10 +402,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!********************************************!*\
   !*** ./src/component/fonts/Vazir-Thin.eot ***!
   \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:1)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.eot?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Thin.eot\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.eot?");
 
 /***/ }),
 
@@ -393,10 +414,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '�' (1:1)\\n
 /*!********************************************!*\
   !*** ./src/component/fonts/Vazir-Thin.ttf ***!
   \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.ttf?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Thin.ttf\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.ttf?");
 
 /***/ }),
 
@@ -404,10 +426,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:0
 /*!*********************************************!*\
   !*** ./src/component/fonts/Vazir-Thin.woff ***!
   \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.woff?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Thin.woff\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.woff?");
 
 /***/ }),
 
@@ -415,10 +438,11 @@ eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4
 /*!**********************************************!*\
   !*** ./src/component/fonts/Vazir-Thin.woff2 ***!
   \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '\\u0000' (1:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n(Source code omitted for this binary file)\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.woff2?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"build/fonts/Vazir-Thin.woff2\");\n\n//# sourceURL=webpack:///./src/component/fonts/Vazir-Thin.woff2?");
 
 /***/ }),
 

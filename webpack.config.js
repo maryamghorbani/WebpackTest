@@ -27,6 +27,19 @@ module.exports = {
                         }
                     }
                 ]
+            },
+            {
+                test: /\.(woff|ttf|eot|woff2|otf)$/,
+                use: [
+                    {
+                        loader: 'file-loader',
+                        options: {
+                            publicPath: 'build/fonts',
+                            outputPath: 'fonts',
+                            name: '[name].[ext]'
+                        }
+                    }
+                ]
             }
         ]
     }
