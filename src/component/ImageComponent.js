@@ -12,12 +12,21 @@ class ImageComponent {
 
         return image;
     }
+
+    createTextTag() {
+        const text = document.createElement('p');
+        text.innerHTML = 'سلام راکت';
+
+        return text;
+    }
+
     render(){
         const element = document.createElement('div');
         element.classList.add('img-box')
 
         element.appendChild(this.crateImageTag());
-
+        element.appendChild(this.createTextTag());
+        
         return element;
     }
 }
