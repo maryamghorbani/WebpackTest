@@ -1,7 +1,14 @@
+@import "./../fonts/font-face.css";
+
+body {
+  font-family: 'vazir';
+}
+
 .img-box {
   display: flex;
   justify-content: center;
   align-items: center;
   border: 2px solid darkred;
   padding: 10px;
+  flex-direction: column;
 }

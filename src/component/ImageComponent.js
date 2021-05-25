@@ -14,7 +14,7 @@ class ImageComponent {
     }
 
     createTextTag() {
-        const text = document.createElement('p');
+        const text = document.createElement('h2');
         text.innerHTML = 'سلام راکت';
 
         return text;
@@ -26,7 +26,7 @@ class ImageComponent {
 
         element.appendChild(this.crateImageTag());
         element.appendChild(this.createTextTag());
-        
+
         return element;
     }
 }
