@@ -40,6 +40,11 @@ module.exports = {
                         }
                     }
                 ]
+            },
+            {
+                test: /\.js$/,
+                exclude: /node-madules/,
+                loader: "babel-loader"
             }
         ]
     }
