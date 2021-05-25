@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0525b2c3-695a-493e-89c0-838fa028dcba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621775273295</updated>
       <workItem from="1621775277361" duration="5343000" />
-      <workItem from="1621840535427" duration="6024000" />
+      <workItem from="1621840535427" duration="7232000" />
     </task>
     <servers />
   </component>
@@ -91,6 +94,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="388" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621934610495">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="388" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1621934610495" />
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621867775774">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
