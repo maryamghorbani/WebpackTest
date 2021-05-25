@@ -1,4 +1,5 @@
 const path = require('path')
+// const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
     entry : {
@@ -7,51 +8,57 @@ module.exports = {
     output : {
         filename : '[name].js',
         path : path.resolve(__dirname,'build'),
-        publicPath: 'build/'
     },
-    module: {
-        rules: [
+    module : {
+        rules : [
             {
-                test: /\.css$/,
-                use: ['style-loader' , 'css-loader']
+                test : /\.css$/,
+                use : ['style-loader' , 'css-loader']
             },
             {
-                test: /\.(png|jpe?g|gif)$/,
-                use: [
+                test : /\.s[ac]ss$/,
+                use : ['style-loader' , 'css-loader' , 'sass-loader']
+            },
+            {
+                test : /\.(png|jpe?g|gif)$/,
+                use : [
                     {
-                        loader: 'file-loader',
-                        options: {
-                            publicPath: 'build/images',
-                            outputPath: 'images',
-                            name: '[name].[ext]'
+                        loader : 'file-loader',
+                        options : {
+                            publicPath : 'build/images',
+                            outputPath : 'images',
+                            name : '[name].[ext]'
                         }
                     }
                 ]
             },
             {
-                test: /\.(woff|ttf|eot|woff2|otf)$/,
-                use: [
+                test : /\.(woff|woff2|ttf|eot|otf)$/,
+                use : [
                     {
-                        loader: 'file-loader',
-                        options: {
-                            publicPath: 'build/fonts',
-                            outputPath: 'fonts',
-                            name: '[name].[ext]'
+                        loader : 'file-loader',
+                        options : {
+                            publicPath : 'build/fonts',
+                            outputPath : 'fonts',
+                            name : '[name].[ext]'
                         }
                     }
                 ]
             },
             {
                 test: /\.js$/,
-                exclude: /node-madules/,
-                loader: "babel-loader" ,
-                options: {
-                    "presets": ["@babel/preset-env"]
+                exclude: /node_modules/,
+                loader: "babel-loader",
+                options : {
+                    presets : ["@babel/preset-env"]
                 }
             }
         ]
     },
-    plugins: [
-            
+    plugins : [
+        // new HtmlWebpackPlugin({
+        //     title : 'Roocket App',
+        //     template : 'index.html'
+        // })
     ]
 }
