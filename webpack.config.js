@@ -27,7 +27,7 @@ module.exports = {
                     {
                         loader : 'file-loader',
                         options : {
-                            publicPath : 'build/images',
+                            publicPath : 'images',
                             outputPath : 'images',
                             name : '[name].[ext]'
                         }
@@ -40,7 +40,7 @@ module.exports = {
                     {
                         loader : 'file-loader',
                         options : {
-                            publicPath : 'build/fonts',
+                            publicPath : 'fonts',
                             outputPath : 'fonts',
                             name : '[name].[ext]'
                         }
