@@ -1,5 +1,6 @@
 const path = require('path')
-// const HtmlWebpackPlugin = require('html-webpack-plugin');
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+
 
 module.exports = {
     entry : {
@@ -13,11 +14,11 @@ module.exports = {
         rules : [
             {
                 test : /\.css$/,
-                use : ['style-loader' , 'css-loader']
+                // use : [MiniCssExtractPlugin.loader , 'css-loader']
             },
             {
                 test : /\.s[ac]ss$/,
-                use : ['style-loader' , 'css-loader' , 'sass-loader']
+                // use : [MiniCssExtractPlugin.loader , 'css-loader' , 'sass-loader']
             },
             {
                 test : /\.(png|jpe?g|gif)$/,
@@ -56,9 +57,6 @@ module.exports = {
         ]
     },
     plugins : [
-        // new HtmlWebpackPlugin({
-        //     title : 'Roocket App',
-        //     template : 'index.html'
-        // })
+        new HtmlWebpackPlugin()
     ]
 }
