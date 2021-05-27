@@ -16,6 +16,7 @@ class ListComponent {
         element.appendChild(this.createItem('item2'))
         element.appendChild(this.createItem('item3'))
         element.appendChild(this.createItem('item4'))
+        element.appendChild(this.createItem('item5'))
 
         return element;
     }
