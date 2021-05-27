@@ -21,39 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0525b2c3-695a-493e-89c0-838fa028dcba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/cached-child-compiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/cached-child-compiler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/child-compiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/child-compiler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/file-watcher-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/file-watcher-api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/hooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/hooks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/html-tags.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/html-tags.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/AsyncParallelBailHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/AsyncParallelHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/AsyncSeriesBailHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/AsyncSeriesHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/AsyncSeriesLoopHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/AsyncSeriesWaterfallHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/Hook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/HookCodeFactory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/HookMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/MultiHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/SyncBailHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/SyncHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/SyncLoopHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/SyncWaterfallHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/lib/util-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/tapable/tapable.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/html-webpack-plugin/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/typings.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +74,7 @@
       <updated>1621775273295</updated>
       <workItem from="1621775277361" duration="5343000" />
       <workItem from="1621840535427" duration="10516000" />
-      <workItem from="1622044465287" duration="890000" />
+      <workItem from="1622044465287" duration="1618000" />
     </task>
     <servers />
   </component>
