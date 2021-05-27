@@ -9,18 +9,19 @@ module.exports = {
         bundle : './src/script.js'
     },
     output : {
-        filename : '[name].[contenthash].js',
+        filename : '[name].js',
         path : path.resolve(__dirname,'build'),
     },
+    mode: "development",
     module : {
         rules : [
             {
                 test : /\.css$/,
-                use : [MiniCssExtractPlugin.loader , 'css-loader']
+                use : ['style-loader' , 'css-loader']
             },
             {
                 test : /\.s[ac]ss$/,
-                use : [MiniCssExtractPlugin.loader , 'css-loader' , 'sass-loader']
+                use : ['style-loader' , 'css-loader' , 'sass-loader']
             },
             {
                 test : /\.(png|jpe?g|gif)$/,
@@ -64,7 +65,7 @@ module.exports = {
             template: "./src/index.html"
         }),
         new MiniCssExtractPlugin({
-            filename: '[name].[contenthash].css'
+            filename: '[name].css'
         }),
         new CleanWebpackPlugin()
     ]
