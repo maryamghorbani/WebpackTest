@@ -1,5 +1,6 @@
 const path = require('path')
-const HtmlWebpackPlugin = require('html-webpack-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 
 module.exports = {
@@ -14,11 +15,11 @@ module.exports = {
         rules : [
             {
                 test : /\.css$/,
-                // use : [MiniCssExtractPlugin.loader , 'css-loader']
+                use : [MiniCssExtractPlugin.loader , 'css-loader']
             },
             {
                 test : /\.s[ac]ss$/,
-                // use : [MiniCssExtractPlugin.loader , 'css-loader' , 'sass-loader']
+                use : [MiniCssExtractPlugin.loader , 'css-loader' , 'sass-loader']
             },
             {
                 test : /\.(png|jpe?g|gif)$/,
@@ -60,5 +61,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             title: "Rocket App",
             template: "index.html"
-        })]
+        }),
+        new MiniCssExtractPlugin()
+    ]
 }
