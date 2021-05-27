@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0525b2c3-695a-493e-89c0-838fa028dcba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +56,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/component" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/component" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -72,7 +72,7 @@
       <updated>1621775273295</updated>
       <workItem from="1621775277361" duration="5343000" />
       <workItem from="1621840535427" duration="10516000" />
-      <workItem from="1622044465287" duration="4322000" />
+      <workItem from="1622044465287" duration="4453000" />
     </task>
     <servers />
   </component>

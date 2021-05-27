@@ -61,7 +61,7 @@ module.exports = {
     plugins : [
         new HtmlWebpackPlugin({
             title: "Rocket App",
-            template: "index.html"
+            template: "./src/index.html"
         }),
         new MiniCssExtractPlugin({
             filename: '[name].[contenthash].css'
