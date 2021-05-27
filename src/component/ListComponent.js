@@ -1,3 +1,6 @@
+import "./styles/list-style.css"
+
+
 class ListComponent {
 
     createItem(title) {

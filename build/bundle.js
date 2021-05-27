@@ -106,7 +106,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nfunction _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }\n\nfunction _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }\n\nvar ListComponent = /*#__PURE__*/function () {\n  function ListComponent() {\n    _classCallCheck(this, ListComponent);\n  }\n\n  _createClass(ListComponent, [{\n    key: \"createItem\",\n    value: function createItem(title) {\n      var item = document.createElement('li');\n      item.innerText = title;\n      return item;\n    }\n  }, {\n    key: \"render\",\n    value: function render() {\n      var element = document.createElement('ul');\n      element.appendChild(this.createItem('item1'));\n      element.appendChild(this.createItem('item2'));\n      element.appendChild(this.createItem('item3'));\n      element.appendChild(this.createItem('item4'));\n      return element;\n    }\n  }]);\n\n  return ListComponent;\n}();\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (new ListComponent());\n\n//# sourceURL=webpack:///./src/component/ListComponent.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_list_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/list-style.css */ \"./src/component/styles/list-style.css\");\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nfunction _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }\n\nfunction _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }\n\n\n\nvar ListComponent = /*#__PURE__*/function () {\n  function ListComponent() {\n    _classCallCheck(this, ListComponent);\n  }\n\n  _createClass(ListComponent, [{\n    key: \"createItem\",\n    value: function createItem(title) {\n      var item = document.createElement('li');\n      item.innerText = title;\n      return item;\n    }\n  }, {\n    key: \"render\",\n    value: function render() {\n      var element = document.createElement('ul');\n      element.appendChild(this.createItem('item1'));\n      element.appendChild(this.createItem('item2'));\n      element.appendChild(this.createItem('item3'));\n      element.appendChild(this.createItem('item4'));\n      return element;\n    }\n  }]);\n\n  return ListComponent;\n}();\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (new ListComponent());\n\n//# sourceURL=webpack:///./src/component/ListComponent.js?");
 
 /***/ }),
 
@@ -131,6 +131,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack:///./src/component/styles/image-style.css?");
+
+/***/ }),
+
+/***/ "./src/component/styles/list-style.css":
+/*!*********************************************!*\
+  !*** ./src/component/styles/list-style.css ***!
+  \*********************************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack:///./src/component/styles/list-style.css?");
 
 /***/ }),
 
