@@ -95,6 +95,8 @@ module.exports = (env , { mode }) => {
     ])
 
     if (!isDevelopment) {
+        config.output.filename = '[name].[contenthash].js';
+
         config.plugins.push(
             new MiniCssExtractPlugin({
                 filename : '[name].[contenthash].css'
