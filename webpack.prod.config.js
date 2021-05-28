@@ -63,12 +63,14 @@ module.exports = {
         new HtmlWebpackPlugin({
             title : 'Roocket Index App',
             template : './src/index.html',
-            filename: "index.html"
+            filename: "index.html",
+            chunks: ['bundle']
         }),
         new HtmlWebpackPlugin({
             title : 'Roocket Admin App',
             template : './src/index.html',
-            filename: "admin.html"
+            filename: "admin.html",
+            chunks: ['admin']
         }),
         new MiniCssExtractPlugin({
             filename : '[name].[contenthash].css'
