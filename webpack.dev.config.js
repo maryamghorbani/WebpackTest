@@ -1,8 +1,6 @@
-const path = require('path')
+const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
-
 
 module.exports = {
     entry : {
@@ -12,28 +10,33 @@ module.exports = {
         filename : '[name].js',
         path : path.resolve(__dirname,'build'),
     },
-    mode: "development",
+    mode : "development",
+    devServer : {
+        contentBase : path.resolve(__dirname,'build'),
+        index : 'index.html',
+        port : 8888
+    },
     module : {
         rules : [
             {
                 test : /\.css$/,
-                use : ['style-loader' , 'css-loader']
+                use : ['style-loader', 'css-loader']
             },
             {
                 test : /\.s[ac]ss$/,
-                use : ['style-loader' , 'css-loader' , 'sass-loader']
+                use : ['style-loader', 'css-loader' , 'sass-loader']
             },
             {
                 test : /\.(png|jpe?g|gif)$/,
                 use : [
-                    {
-                        loader : 'file-loader',
-                        options : {
-                            publicPath : 'images',
-                            outputPath : 'images',
-                            name : '[name].[ext]'
-                        }
-                    }
+                   {
+                       loader : 'file-loader',
+                       options : {
+                           publicPath : 'images',
+                           outputPath : 'images',
+                           name : '[name].[ext]'
+                       }
+                   } 
                 ]
             },
             {
@@ -46,26 +49,15 @@ module.exports = {
                             outputPath : 'fonts',
                             name : '[name].[ext]'
                         }
-                    }
-                ]
-            },
-            {
-                test: /\.js$/,
-                exclude: /node_modules/,
-                loader: "babel-loader",
-                options : {
-                    presets : ["@babel/preset-env"]
-                }
+                    } 
+                 ]
             }
         ]
     },
     plugins : [
         new HtmlWebpackPlugin({
-            title: "Rocket App",
-            template: "./src/index.html"
-        }),
-        new MiniCssExtractPlugin({
-            filename: '[name].css'
+            title : 'Roocket App',
+            template : './src/index.html'
         }),
         new CleanWebpackPlugin()
     ]
