@@ -4,7 +4,8 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
     entry : {
-        bundle : './src/script.js'
+        bundle : './src/script.js',
+        admin : './src/admin.js'
     },
     output : {
         filename : '[name].js',
@@ -56,8 +57,16 @@ module.exports = {
     },
     plugins : [
         new HtmlWebpackPlugin({
-            title : 'Roocket App',
-            template : './src/index.html'
+            title : 'Roocket Index App',
+            template : './src/index.html',
+            filename: "index.html",
+            chunks: ['bundle']
+        }),
+        new HtmlWebpackPlugin({
+            title : 'Roocket Admin App',
+            template : './src/index.html',
+            filename: "admin.html",
+            chunks: ['admin']
         }),
         new CleanWebpackPlugin()
     ]
