@@ -13,6 +13,11 @@ const config = {
     output : {
         path : path.resolve(__dirname,'build'),
     },
+    optimization : {
+        splitChunks : {
+            chunks : 'all'
+        }
+    },
     module : {
         rules : [
             {
@@ -56,13 +61,13 @@ const config = {
             title : 'Roocket Index App',
             template : './src/index.html',
             filename: "index.html",
-            chunks: ['bundle']
+            chunks: ['bundle' , 'vendors~admin~bundle']
         }),
         new HtmlWebpackPlugin({
             title : 'Roocket Admin App',
             template : './src/index.html',
             filename: "admin.html",
-            chunks: ['admin']
+            chunks: ['admin' , 'vendors~admin~bundle']
         }),
         new CleanWebpackPlugin()
     ]

@@ -29,5 +29,8 @@
     "webpack-cli": "^3.3.4",
     "webpack-dev-server": "^3.7.2"
   },
-  "browserslist": "> 50%"
+  "browserslist": "> 50%",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

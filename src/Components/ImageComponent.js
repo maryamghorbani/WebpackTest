@@ -1,6 +1,9 @@
 import './styles/image-style.scss';
 import firstImage from "./images/github-1.png";
 import data from './colors.json';
+import _ from 'lodash';
+
+_.map([1,2] , item => console.log(item))
 
 class ImageComponent {
 
