@@ -20,40 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0525b2c3-695a-493e-89c0-838fa028dcba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webpack-plugins/Notifier.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_baseClone.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_baseClone.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_baseMerge.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_baseMerge.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_baseOrderBy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_baseOrderBy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_baseSet.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_baseSet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_baseSortedIndexBy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_baseSortedIndexBy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_createRound.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_createRound.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_equalArrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_equalArrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_equalObjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_equalObjects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/_safeGet.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/_safeGet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/core.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/core.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/debounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/debounce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/lodash.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/lodash.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/lodash.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/lodash.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/matches.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/matches.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/matchesProperty.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/matchesProperty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/overEvery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/overEvery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/overSome.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/overSome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/parseInt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/parseInt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/sortBy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/sortBy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/toNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/toNumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/trim.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/trim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/trimEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/trimEnd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/trimStart.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/trimStart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/ImageComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ImageComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/admin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +75,7 @@
       <updated>1621775273295</updated>
       <workItem from="1621775277361" duration="5343000" />
       <workItem from="1621840535427" duration="10516000" />
-      <workItem from="1622044465287" duration="15302000" />
+      <workItem from="1622044465287" duration="16473000" />
     </task>
     <servers />
   </component>
@@ -125,10 +95,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="388" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621934610495">
+    <state x="388" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622224502384">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="388" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1621934610495" />
+    <state x="388" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1622224502384" />
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621867775774">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

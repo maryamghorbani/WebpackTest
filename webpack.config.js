@@ -2,6 +2,7 @@ const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const Notifier = require('./webpack-plugins/Notifier');
 
 
 
@@ -57,6 +58,9 @@ const config = {
         ]
     },
     plugins : [
+        new Notifier({
+            name: 'maryam'
+        }),
         new HtmlWebpackPlugin({
             title : 'Roocket Index App',
             template : './src/index.html',
