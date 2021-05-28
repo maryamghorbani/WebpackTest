@@ -20,6 +20,7 @@ const config = {
             chunks : 'all'
         }
     },
+    stats : "minimal",
     module : {
         rules : [
             {
