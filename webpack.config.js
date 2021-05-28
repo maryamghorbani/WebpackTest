@@ -3,6 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const Notifier = require('./webpack-plugins/Notifier');
+const webpack = require('webpack');
 
 
 
@@ -58,6 +59,7 @@ const config = {
         ]
     },
     plugins : [
+        new webpack.ProgressPlugin(),
         new Notifier({
             name: 'maryam'
         }),

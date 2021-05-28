@@ -10,7 +10,7 @@ class Notifier {
         console.log('my first plugin', this.options)
         compiler.hooks.done.tap('notification' , (stats) => {
             let time = ((stats.endTime - stats.startTime) / 1000).toFixed(2)
-            
+
             notifier.notify({
                 title: 'webpack',
                 message: `webpack is done in ${time}`
